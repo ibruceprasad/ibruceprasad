@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Please see my projects here - https://github.com/ibruceprasad?tab=repositories
+Please see my projects in the Repositories tab - https://github.com/ibruceprasad?tab=repositories
 <!--
 **ibruceprasad/ibruceprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
