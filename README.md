@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Please see my projects in the <u>**Repositories**</u> tab  - https://github.com/ibruceprasad?tab=repositories
+Please see all my projects in the <u>**Repositories**</u> tab  - https://github.com/ibruceprasad?tab=repositories
 
 
 
